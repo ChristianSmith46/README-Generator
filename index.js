@@ -34,7 +34,7 @@ ${response.contribution}
 ${response.test}
 
 ## Questions
-Find my github at [http://github.com/${response.github}](http://github.com/${response.github} "http://github.com/${response.github}")
+Find my github at [http://github.com/${response.github}](http://github.com/${response.github})
 
 Contact me by email: ${response.email}`
 
