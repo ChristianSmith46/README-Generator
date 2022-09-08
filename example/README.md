@@ -16,7 +16,7 @@ Generates a README.md file based off of user prompts
 Make sure you have node installed then npm install in the same directory as index.js
 
 ## Usage Information
-run nodex index.js in the filepath of the index.js
+run node index.js in the filepath of the index.js
 
 ## License
 This application is covered under the MIT license.
